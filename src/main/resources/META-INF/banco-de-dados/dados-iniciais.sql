@@ -1,0 +1,2 @@
+insert into produto (id, nome, descricao, preco) values (1,'Notebook Dell 3705', 'Notebook Dell 3705', 8999.99);
+insert into produto (id, nome, descricao, preco) values (2,'Monitor 27 LG ', 'Monitor 27 LG UltraWide', 2579.99);
